@@ -366,11 +366,6 @@ box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
     color: #434455;
 }
 
-.functions-text:hover,
-.functions-text:focus{
-    transform: translateY(0%);
-}
-
 .four-img{
     position: relative;
     overflow: hidden;
